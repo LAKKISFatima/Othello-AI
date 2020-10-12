@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6493860fc151e6244b62616edf80d22b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - white_tokenObj: {fileID: 8998915298460576124, guid: 8a89c1d54dfb5fa4b9b85a63e1e60c54,
+      type: 3}
+  - black_tokenObj: {fileID: 580195813809357612, guid: 63917242f79be1948be3d9385e8bf865,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
